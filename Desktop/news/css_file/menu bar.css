@@ -1,0 +1,73 @@
+body{
+    background: url('../images_file/559790_sunset-calming-wallpapers-backgrounds_1920x1200_h.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+}
+
+#heading{
+    font-style: italic; font-size:60px;color: rgb(7, 29, 94);
+    
+    cursor: pointer;
+   margin-left:400px; 
+   margin-right: 470px;
+   text-shadow: 2px 2px #ff0000;
+
+}
+#trend{
+    font-style: italic; font-size:60px;color: rgb(207, 11, 11);
+    
+
+
+}
+ul
+{
+    margin-left: 60px;
+    padding: 0px;
+    list-style: none;
+    color: white;
+    
+}
+ul li
+{
+    float: left;
+    width: 250px;
+    height: 40px;
+    background-color: rgb(35, 5, 82);
+    opacity: .8;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 2px;
+}
+ul li a{
+    text-decoration: none;
+    color:white;
+    display: block;
+}
+ul li a:hover
+{
+   background-color: green; 
+   cursor: pointer;
+}
+ul li ul li
+{
+    display: none;
+}
+ul li:hover ul li
+{
+    display: block;
+}
+.list{
+    margin: 0;
+    padding: 0;
+}
+#about
+{
+    font-style: italic; font-size:60px;color: rgb(7, 29, 94);
+    
+    cursor: pointer;
+   margin-left:500px; 
+   margin-right: 500px;
+   background-color: rgb(104, 104, 5);
+   text-shadow: 2px 2px #ff0000;
+}

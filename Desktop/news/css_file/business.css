@@ -1,0 +1,20 @@
+body{
+    background-color:  rgba(187, 187, 17, 0.445);
+
+}
+h1  {
+    font-size: 40pt;
+    font-style: italic;
+    text-shadow: 2px 2px #ff0000;
+    
+}
+#photos
+{
+    border: 2px solid black;
+}
+h2{
+    color:red;
+}
+h3{
+    color:red;
+}

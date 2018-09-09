@@ -1,0 +1,163 @@
+body
+{
+background-image:url(../images_file/best-nature-background-images.jpg);
+background-repeat:no-repeat;
+background-size:100% 1500px;
+width:100%;
+background-size: cover;
+}
+form
+{
+text-align:center;
+margin:100px 250px;
+padding: 0;
+margin-top: 0%;
+}
+h1
+{
+text-align:center;
+font-size:60px;
+color:red;
+padding:5px;
+}
+h2
+{
+text-align:center;
+font-size:40px;
+color:red;
+padding:0px;
+}
+#registration
+{
+width:60%;
+height:150%;
+background-color:#5e5510;
+opacity:0.7;
+padding:50px 8px;
+}
+#button0
+{
+width:250px;
+padding:2px;
+border-radius:5px;
+outline:5px;
+}
+#button1
+{
+width:250px;
+padding:5px;
+border-radius:5px;
+outline:5px;
+}
+#button4
+{
+width:250px;
+padding:5px;
+border-radius:5px;
+outline:5px;
+}
+#button5
+{
+width:250px;
+padding:5px;
+border-radius:5px;
+outline:5px;
+}
+#button6
+{
+width:250px;
+padding:5px;
+border-radius:5px;
+outline:5px;
+}
+#button7
+{
+width:250px;
+padding:5px;
+border-radius:5px;
+outline:5px;
+}
+#button8
+{
+width:250px;
+padding:5px;
+border-radius:5px;
+outline:5px;
+}
+#button9
+{
+width:250px;
+padding:5px;
+border-radius:5px;
+outline:5px;
+}
+#button10
+{
+width:250px;
+padding:5px;
+border-radius:5px;
+outline:5px;
+}
+#button11
+{
+width:250px;
+padding:5px;
+border-radius:5px;
+outline:5px;
+}
+#ph
+{
+outline:5px;
+border-radius:5px;
+width:50px;
+}
+#phone
+{
+width:200px;
+padding:5px;
+border-radius:5px;
+outline:5px;
+}
+#reg
+{
+width:150px;
+padding:10px;
+border-radius:5px;
+outline:0px;
+background-color:green;
+border:2px solid white;
+color:aliceblue;
+font-size:20px;
+}
+#bottom_home{
+    font-style: italic; font-size:60px;color: rgb(7, 29, 94);
+    
+    cursor: pointer;
+   margin-left:400px; 
+   margin-right: 470px;
+
+}
+/*(a:hover
+{
+background-color: orangered;
+border-bottom: 2px solid blue;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    color: green;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
